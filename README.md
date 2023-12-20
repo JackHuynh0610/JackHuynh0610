@@ -1,5 +1,5 @@
 # Nghia Huynh's GitHub 🚀
-Hey there! 👋 Welcome to my GitHub. I'm Nghia Huynh, a passionate computer science student at Indiana University. I enjoy exploring various technologies and building cool projects. Here, you'll find a mix of my programming adventures, and personality in here.
+Hey there! 👋 Welcome to my GitHub. I'm Nghia(Jack) Huynh, a passionate computer science student at Indiana University. I enjoy exploring various technologies and building cool projects. Here, you'll find a mix of my programming adventures, and personality in here.
 
 ## About Me
 - 📚 **University:** Indiana University
