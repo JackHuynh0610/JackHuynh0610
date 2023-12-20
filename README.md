@@ -1,46 +1,24 @@
 # Nghia Huynh's GitHub 🚀
-Hey there! 👋 Welcome to my GitHub. I'm Nghia(Jack) Huynh, a passionate computer science student at Indiana University. I enjoy exploring various technologies and building cool projects. Here, you'll find a mix of my programming adventures, and personality in here.
+
+Hey! 👋 I'm Nghia(Jack) Huynh, a CS student at Indiana University. I love programming, playing guitar, and building projects.
 
 ## About Me
 - 📚 **University:** Indiana University
-- 🎸 **Love:** Programming, Playing Guitar, Video Games, Travel
-- - 🎸 **Food:** Sushi, Instant Noodle, Coffee (Robusta), Wings!
+- 🎸 **Interests:** Programming, Guitar, Video Games, Travel
+- 🍣 **Food:** Sushi, Instant Noodle, Coffee, Wings!
 
-### Programming Languages
-- Java
-- C
-- Python
-- JavaScript (NodeJS)
-- HTML/CSS
-
-### Databases
-- MongoDB
-- MySQL
-
-### Tools
-- React
-- Spring
-- NodeJS
-- Git & GitHub
+## Tech Stack
+- Languages: Java, C, Python, JS (Node), HTML/CSS
+- Databases: MongoDB, MySQL
+- Tools: React, Spring, NodeJS, Git & GitHub
 
 ## Projects
-
-Here are some of the projects I'm currently working on or have completed:
-
-1. **RayMarching**
-   - Description: Simulation of a rendering technique [**here**](https://github.com/JackHuynh0610/RayMarching).
-   - Using: Java and JavaSwing
-
-2. **RayCasting**
-   - Description: A continuation of **RayMarching** with a twist [**here**](https://github.com/JackHuynh0610/RayCasting-3D).
-   - Using: Java and JavaSwing
+1. [**RayMarching**](https://github.com/JackHuynh0610/RayMarching): JavaSwing rendering simulation.
+2. [**RayCasting**](https://github.com/JackHuynh0610/RayCasting-3D): JavaSwing continuation with a twist.
 
 ## Connect with Me
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/nghiahuynh/)
 - 🐦 [Twitter](https://twitter.com/your-twitter-handle)
-- 🌐 [Personal Website/Blog](https://www.nghiahuynh.com)
+- 🌐 [Website/Blog](https://www.nghiahuynh.com)
 
-Feel free to explore my projects and connect with me. Happy coding! 🚀
-
-JACK HUYNH
+Explore my projects and let's connect! Happy coding! 🚀
