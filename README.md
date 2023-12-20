@@ -13,8 +13,8 @@ Hey! 👋 I'm Nghia(Jack) Huynh, a CS student at Indiana University. I love prog
 - Tools: React, Spring, NodeJS, Git & GitHub
 
 ## Projects
-1. [**RayMarching**](https://github.com/JackHuynh0610/RayMarching): JavaSwing rendering simulation.
-2. [**RayCasting**](https://github.com/JackHuynh0610/RayCasting-3D): JavaSwing continuation with a twist.
+1. [**RayMarching**](https://github.com/JackHuynh0610/RayMarching): RayMarching rendering simulation.
+2. [**RayCasting**](https://github.com/JackHuynh0610/RayCasting-3D): A continuation of RayMarching with a twist.
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nghiahuynh/)
