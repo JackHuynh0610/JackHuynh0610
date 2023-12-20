@@ -18,7 +18,6 @@ Hey! 👋 I'm Nghia(Jack) Huynh, a CS student at Indiana University. I love prog
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nghiahuynh/)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
 - 🌐 [Website/Blog](https://www.nghiahuynh.com)
 
 Explore my projects and let's connect! Happy coding! 🚀
