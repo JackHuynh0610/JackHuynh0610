@@ -9,7 +9,7 @@ Hey! 👋 I'm Nghia(Jack) Huynh, a CS student at Indiana University. I love prog
 
 ## Tech Stack
 - Languages: Java, C, Python, JS (Node), HTML/CSS
-- Databases: MongoDB, MySQL
+- Databases: MongoDB, PostGreSQL, MySQL
 - Tools: React, Spring, NodeJS, Git & GitHub
 
 ## Projects
