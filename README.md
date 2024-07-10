@@ -17,7 +17,6 @@ Hey! 👋 I'm Nghia (Jack) Huynh, a CS student at Indiana University. I love pro
 2. [**RayCasting**](https://github.com/JackHuynh0610/RayCasting-3D): A continuation of RayMarching with a twist.
 
 ## GitHub Stats
-![Nghia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackHuynh0610&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHuynh0610&layout=compact&theme=radical)
 
 ## Connect with Me
