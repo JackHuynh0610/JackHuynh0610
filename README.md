@@ -15,6 +15,7 @@ Hey! 👋 I'm Nghia (Jack) Huynh, a CS student at Indiana University. I love pro
 ## Projects
 1. [**RayMarching**](https://github.com/JackHuynh0610/RayMarching): RayMarching rendering simulation.
 2. [**RayCasting**](https://github.com/JackHuynh0610/RayCasting-3D): A continuation of RayMarching with a twist.
+3. [**Tribute-Page**](https://jackhuynh0610.github.io/tribute-page-Edsger-W.-Dijkstra/): A tribute page for Edsger W. Dijkstra.
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackHuynh0610&layout=compact&theme=radical)
