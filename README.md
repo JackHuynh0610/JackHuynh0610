@@ -1,6 +1,6 @@
-# Nghia Huynh's GitHub 🚀
+# Jack's GitHub 🚀
 
-Hey! 👋 I'm Nghia (Jack) Huynh, a CS student at Indiana University. I love programming, playing guitar, and building projects.
+Hey! 👋 I'm Jack, a CS student at Indiana University. I love programming, playing guitar, ride motorcycle and building projects.
 
 ## About Me
 - 📚 **University:** Indiana University
